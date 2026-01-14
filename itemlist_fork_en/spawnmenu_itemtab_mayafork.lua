@@ -1,4 +1,4 @@
-PLUGIN.name = "Item Spawn Menu"
+PLUGIN.name = "Itemlist Redux"
 PLUGIN.author = "Rune Knight & Khall & ɅµЋƵƵ"
 PLUGIN.description = "Adds a tab to the spawn menu for item spawning and the possibility to undo them, now overhauled.\nHas the ability to teleport to items on the ground, print an item's table to console, and wipe an item from the database."
 
